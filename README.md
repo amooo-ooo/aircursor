@@ -1,5 +1,5 @@
 # aircursor
-Aircursor is a simple mini-project that allows users to control their cursor with movements of their hands. 
+Aircursor is a simple, mini, python project that allows users to control their cursor with movements of their hands.Powered by open-cv, mediapipe and pyautogui. 
 
 ## Instructions
 The cursor follows the centre of your hand when the program initiates. 
@@ -53,3 +53,6 @@ For example:
 ```shell
 python main.py --show_camera
 ```
+
+## Contact
+You can contact me at [amor.budiyanto@gmail.com](mailto:amor.budiyanto@gmail.com).
