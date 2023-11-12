@@ -1,0 +1,6 @@
+keyboard==0.13.5
+mediapipe==0.10.8
+numpy==1.26.1
+opencv-contrib-python==4.8.1.78
+opencv-python==4.8.1.78
+PyAutoGUI==0.9.54
