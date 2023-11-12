@@ -4,7 +4,7 @@ Aircursor is a simple mini-project that allows users to control their cursor wit
 ## Instructions
 The cursor follows the centre of your hand when the program initiates. 
 
-> [NOTE]
+> [!NOTE]
 > Not the palm, but the centre of your hands according to your fingers. 
 
 Which means you are able to fine-tune the cursor position by moving your fingers. 
@@ -19,16 +19,27 @@ There are only two simple actions that are implemented in Aircursor at the momen
 The cursor works normally. In order to left-click, simply close your palm and open them. This means users are able to select texts or images and drag them with intuitive hand movements. 
 
 ## Quick Start
+
+Clone the project:
 ```shell
-git clone 
+git clone https://github.com/amooo-ooo/aircursor
 ```
 
+Install required dependencies:
 ```shell
 pip install -r requirements.txt
 ```
 
+Quick start the program:
+```shell
+python main.py
+```
+
+> [!IMPORTANT]
+> Quit the program by pressing `ctrl + q`!
+
 ## Parameters
-By default, no external windows opens, and the program oeprates in the background in order to maximise performance. However, there are arguments you can pass for customisation:
+By default, no external windows open, and the program operates in the background in order to maximise performance. However, there are arguments you can pass for customisation:
 
 | Argument  | Default | Settings |
 | ------------- | ------------- |------------- |
